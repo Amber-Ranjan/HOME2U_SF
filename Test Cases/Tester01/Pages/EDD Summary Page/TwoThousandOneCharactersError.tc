@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TwoThousandOneCharactersError</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1265f896-7374-4a0a-ac3c-02af31680b3f</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a6a392b3-6fe2-4bc9-aa59-e8b64150710d</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>findTestData('Fazrin').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>a6a392b3-6fe2-4bc9-aa59-e8b64150710d</id>
+      <masked>false</masked>
+      <name>TwoThousandOneCharacters</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,30 @@
+{
+  "keywordFileContentHash": "19AA289D9DD7A14C1FA8550C4B8B59D0",
+  "keywordClasses": [
+    {
+      "name": "methods_Tester02.InsuredTenure_ScrollBar",
+      "keywordMethods": [
+        {
+          "name": "InsuredTenure_ScrollBar_Years",
+          "parameters": [
+            {
+              "name": "years",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "int",
+                "unresolvedClassName": "int",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": true,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

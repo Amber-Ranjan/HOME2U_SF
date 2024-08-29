@@ -1,0 +1,88 @@
+{
+  "keywordFileContentHash": "704AF579178B99201F5047155F7A4A5D",
+  "keywordClasses": [
+    {
+      "name": "com.keywords.ScrollAction",
+      "keywordMethods": [
+        {
+          "name": "scroll",
+          "parameters": [
+            {
+              "name": "startYPercentage",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "float",
+                "unresolvedClassName": "float",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": true,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "endYPercentage",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "float",
+                "unresolvedClassName": "float",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": true,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": "/**\r\n\t * Check if element present in timeout\r\n\t * @param to Katalon test object\r\n\t * @param timeout time to wait for element to show up\r\n\t * @return true if element present, otherwise false\r\n\t */"
+        },
+        {
+          "name": "scrollUntillText",
+          "parameters": [
+            {
+              "name": "startYPercentage",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "float",
+                "unresolvedClassName": "float",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": true,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "endYPercentage",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "float",
+                "unresolvedClassName": "float",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": true,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "scrollText",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

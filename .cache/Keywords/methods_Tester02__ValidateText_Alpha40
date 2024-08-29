@@ -1,0 +1,43 @@
+{
+  "keywordFileContentHash": "D68429E98C6E6D69A9BA0EA236F0C389",
+  "keywordClasses": [
+    {
+      "name": "methods_Tester02.ValidateTextBox",
+      "keywordMethods": [
+        {
+          "name": "ValidateText_Alpha_Max",
+          "parameters": [
+            {
+              "name": "MobileElement1",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "com.kms.katalon.core.testobject.TestObject",
+                "unresolvedClassName": "TestObject",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "n",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "int",
+                "unresolvedClassName": "int",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": true,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ReviewPage_Validation_HappyFlow</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7c59a5f1-1646-416c-934a-d0670e7851af</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2c024243-5c68-483b-8567-822e84c23435</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>2c024243-5c68-483b-8567-822e84c23435</id>
+      <masked>false</masked>
+      <name>Page</name>
+   </variable>
+</TestCaseEntity>

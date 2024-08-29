@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+<<<<<<<< HEAD:Test Cases/Tester02/Pages/CustomerOnboardingPage_2/CustomerOnboardingPage_2_Validation_Full.tc
+   <name>CustomerOnboardingPage_2_Validation_Full</name>
+========
+   <name>Input_FinancingPlanAndVendirDetails - Copy</name>
+>>>>>>>> Home2U_Nandha_Tester2:Test Cases/Tester01/Pages/PropertyDetailsPage3/ReusuabelMethods/Input_FinancingPlanAndVendirDetails - Copy.tc
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>87e41272-2a7a-464f-a753-7cf2df7bf36a</testCaseGuid>
+</TestCaseEntity>

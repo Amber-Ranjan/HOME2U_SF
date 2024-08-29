@@ -1,0 +1,43 @@
+{
+  "keywordFileContentHash": "912339DB4CF7E247A56BA3DEFA6010C1",
+  "keywordClasses": [
+    {
+      "name": "methods_Tester02.ValidateTextBox_Num",
+      "keywordMethods": [
+        {
+          "name": "ValidateText_Num_Max",
+          "parameters": [
+            {
+              "name": "MobileElement1",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "com.kms.katalon.core.testobject.TestObject",
+                "unresolvedClassName": "TestObject",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "n",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "int",
+                "unresolvedClassName": "int",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": true,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. verify 'update income details button' is present in application eleigiblity and application success page
+2. verify  on click of 3 dots button in case detail button has only BUsiness appeal</description>
+   <name>TC010_BAUHARDFAILNONListed2APP</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5b91257b-9a10-4235-9ad9-1ece72a26539</testCaseGuid>
+</TestCaseEntity>

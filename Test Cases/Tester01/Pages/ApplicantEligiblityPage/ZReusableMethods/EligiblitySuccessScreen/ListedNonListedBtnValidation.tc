@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ListedNonListedBtnValidation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5eef3cc9-2193-4bb2-8911-d145a48f2f07</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>033d151c-f275-45ec-99b3-9ae5c0ea1c1b</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>033d151c-f275-45ec-99b3-9ae5c0ea1c1b</id>
+      <masked>false</masked>
+      <name>SucessPage</name>
+   </variable>
+</TestCaseEntity>

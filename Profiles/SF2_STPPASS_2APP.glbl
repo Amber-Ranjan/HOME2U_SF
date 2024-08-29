@@ -1,0 +1,1697 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>SF2_STPPASS_2APP</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'2'</initValue>
+      <name>Row_Number</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('SF_Scenarios_Data').getValue('Scenario', 2)</initValue>
+      <name>Scenario</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>LoginPage</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('SF_Scenarios_Data').getValue('SF_Application_ID', 2)</initValue>
+      <name>SF_ApplicationID</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('SF_Scenarios_Data').getValue('SF_Agent_PF_ID', 2)</initValue>
+      <name>SF_Agent_PF_ID</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('SF_Scenarios_Data').getValue('SF_Agent_Password', 2)</initValue>
+      <name>SF_Agent_Password</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('SF_Scenarios_Data').getValue('SF_Manager_PF_ID', 2)</initValue>
+      <name>SF_Manager_PF_ID</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('SF_Scenarios_Data').getValue('SF_Manager_Password', 2)</initValue>
+      <name>SF_Manager_Password</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Automation01'</initValue>
+      <name>FirstTimeLoginUserName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'01113456789'</initValue>
+      <name>FirstTimeLoginMobileNumber</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>StartNewApplicationPage</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('SF_Scenarios_Data').getValue('Applicants_No', 2)</initValue>
+      <name>Applicants_No</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('SF_Scenarios_Data').getValue('ID_Type', 2)</initValue>
+      <name>ID_Type</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('SF_Scenarios_Data').getValue('NTB_ID_Number', 2)</initValue>
+      <name>NTB_ID_Number</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('SF_Scenarios_Data').getValue('ID_Number_MainApplicant', 2)</initValue>
+      <name>ID_Number_MainApplicant</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('SF_Scenarios_Data').getValue('ID_Number_JointApplicant', 2)</initValue>
+      <name>ID_Number_JointApplicant</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('SF_Scenarios_Data').getValue('FATCA_MainApplicant', 2)</initValue>
+      <name>FATCA_MainApplicant</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('SF_Scenarios_Data').getValue('CRS_MainApplicant', 2)</initValue>
+      <name>CRS_MainApplicant</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('SF_Scenarios_Data').getValue('FATCA_JointApplicant', 2)</initValue>
+      <name>FATCA_JointApplicant</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('SF_Scenarios_Data').getValue('CRS_JointApplicant', 2)</initValue>
+      <name>CRS_JointApplicant</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('SF_Scenarios_Data').getValue('JointApplicant_Relationship', 2)</initValue>
+      <name>JointApplicant_Relationship</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>CustomerOnboardingPage1</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('SF_Scenarios_Data').getValue('CustomerName_MainApplicant', 2)</initValue>
+      <name>CustomerName_MainApplicant</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('SF_Scenarios_Data').getValue('CustomerName_JointApplicant', 2)</initValue>
+      <name>CustomerName_JointApplicant</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('SF_Scenarios_Data').getValue('Alternative_IDType', 2)</initValue>
+      <name>Alternative_IDType</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('SF_Scenarios_Data').getValue('Alternative_IDNumber', 2)</initValue>
+      <name>Alternative_IDNumber</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('SF_Scenarios_Data').getValue('CustomerGroup', 2)</initValue>
+      <name>CustomerGroup</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('SF_Scenarios_Data').getValue('Religion', 2)</initValue>
+      <name>Religion</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('SF_Scenarios_Data').getValue('Salutation', 2)</initValue>
+      <name>Salutation</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('SF_Scenarios_Data').getValue('Gender', 2)</initValue>
+      <name>Gender</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('SF_Scenarios_Data').getValue('Education', 2)</initValue>
+      <name>Education</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('SF_Scenarios_Data').getValue('MaritalStatus', 2)</initValue>
+      <name>MaritalStatus</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('SF_Scenarios_Data').getValue('SpouseMonthlyIncome', 2)</initValue>
+      <name>SpouseMonthlyIncome</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('SF_Scenarios_Data').getValue('PhoneNumber', 2)</initValue>
+      <name>PhoneNumber</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('SF_Scenarios_Data').getValue('Resident_Status', 2)</initValue>
+      <name>Resident_Status</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('SF_Scenarios_Data').getValue('Employment_Status', 2)</initValue>
+      <name>Employment_Status</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('SF_Scenarios_Data').getValue('Business_Type', 2)</initValue>
+      <name>Business_Type</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>CustomerOnboardingPage2</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('SF_Scenarios_Data').getValue('Country', 2)</initValue>
+      <name>Country</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('SF_Scenarios_Data').getValue('HomeAddressLine1', 2)</initValue>
+      <name>HomeAddressLine1</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('SF_Scenarios_Data').getValue('HomeAddressLine2', 2)</initValue>
+      <name>HomeAddressLine2</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('SF_Scenarios_Data').getValue('HomeAddressLine3', 2)</initValue>
+      <name>HomeAddressLine3</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('SF_Scenarios_Data').getValue('City', 2)</initValue>
+      <name>City</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('SF_Scenarios_Data').getValue('Postcode', 2)</initValue>
+      <name>Postcode</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('SF_Scenarios_Data').getValue('State', 2)</initValue>
+      <name>State</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('SF_Scenarios_Data').getValue('MailingAddress', 2)</initValue>
+      <name>MailingAddress</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('SF_Scenarios_Data').getValue('Mailing_Country', 2)</initValue>
+      <name>Mailing_Country</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('SF_Scenarios_Data').getValue('MailingAddressLine1', 2)</initValue>
+      <name>MailingAddressLine1</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('SF_Scenarios_Data').getValue('MailingAddressLine2', 2)</initValue>
+      <name>MailingAddressLine2</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('SF_Scenarios_Data').getValue('MailingAddressLine3', 2)</initValue>
+      <name>MailingAddressLine3</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('SF_Scenarios_Data').getValue('Mailing_City', 2)</initValue>
+      <name>Mailing_City</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('SF_Scenarios_Data').getValue('Mailing_Postcode', 2)</initValue>
+      <name>Mailing_Postcode</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('SF_Scenarios_Data').getValue('Mailing_State', 2)</initValue>
+      <name>Mailing_State</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>CustomerOnboardingPage3</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('SF_Scenarios_Data').getValue('Occupation', 2)</initValue>
+      <name>Occupation</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('SF_Scenarios_Data').getValue('Occupation_Sector', 2)</initValue>
+      <name>Occupation_Sector</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('SF_Scenarios_Data').getValue('NameOfEmployer', 2)</initValue>
+      <name>NameOfEmployer</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('SF_Scenarios_Data').getValue('DurationOfService_Year', 2)</initValue>
+      <name>DurationOfService_Year</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('SF_Scenarios_Data').getValue('DurationOfService_Month', 2)</initValue>
+      <name>DurationOfService_Month</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('SF_Scenarios_Data').getValue('OfficeAddress_Country', 2)</initValue>
+      <name>OfficeAddress_Country</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('SF_Scenarios_Data').getValue('OfficeAddressLine1', 2)</initValue>
+      <name>OfficeAddressLine1</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('SF_Scenarios_Data').getValue('OfficeAddressLine2', 2)</initValue>
+      <name>OfficeAddressLine2</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('SF_Scenarios_Data').getValue('OfficeAddressLine3', 2)</initValue>
+      <name>OfficeAddressLine3</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('SF_Scenarios_Data').getValue('OfficeAddress_City', 2)</initValue>
+      <name>OfficeAddress_City</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('SF_Scenarios_Data').getValue('OfficeAddress_Postcode', 2)</initValue>
+      <name>OfficeAddress_Postcode</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('SF_Scenarios_Data').getValue('Invalid_OfficeAddress_State', 2)</initValue>
+      <name>Invalid_OfficeAddress_State</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('SF_Scenarios_Data').getValue('OfficeAddress_State', 2)</initValue>
+      <name>OfficeAddress_State</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('SF_Scenarios_Data').getValue('OfficeAddress_CountryCode', 2)</initValue>
+      <name>OfficeAddress_CountryCode</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('SF_Scenarios_Data').getValue('OfficeContactNumber', 2)</initValue>
+      <name>OfficeContactNumber</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>CustomerOnboardingPage4</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('SF_Scenarios_Data').getValue('SourceOfIncome', 2)</initValue>
+      <name>SourceOfIncome</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('SF_Scenarios_Data').getValue('FirstTimePurchase', 2)</initValue>
+      <name>FirstTimePurchase</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('SF_Scenarios_Data').getValue('ExistingHomeFinancing', 2)</initValue>
+      <name>ExistingHomeFinancing</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('SF_Scenarios_Data').getValue('NonBankCommitments', 2)</initValue>
+      <name>NonBankCommitments</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>CustomerOnboardingPage5</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('SF_Scenarios_Data').getValue('Mothly_Gross_Income', 2)</initValue>
+      <name>Mothly_Gross_Income</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('SF_Scenarios_Data').getValue('FirstTimePurchase', 2)</initValue>
+      <name>FirstTimePurchase</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('SF_Scenarios_Data').getValue('ExistingHomeFinancing', 2)</initValue>
+      <name>ExistingHomeFinancing</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('SF_Scenarios_Data').getValue('NonBankCommitments', 2)</initValue>
+      <name>NonBankCommitments</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('SF_Scenarios_Data').getValue('PrimaryIncome', 2)</initValue>
+      <name>PrimaryIncome</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('SF_Scenarios_Data').getValue('PrimarySourceOfWealth', 2)</initValue>
+      <name>PrimarySourceOfWealth</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('SF_Scenarios_Data').getValue('MoreThanOneProperty', 2)</initValue>
+      <name>MoreThanOneProperty</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('SF_Scenarios_Data').getValue('PendingApplicationsOnOtherBank', 2)</initValue>
+      <name>PendingApplicationsOnOtherBank</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('SF_Scenarios_Data').getValue('Owner', 2)</initValue>
+      <name>Owner</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('SF_Scenarios_Data').getValue('ConsentPages_radioButton', 2)</initValue>
+      <name>ConsentPages_radioButton</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('SF_Scenarios_Data').getValue('SignElectrically_TermsConditions', 2)</initValue>
+      <name>SignElectrically_TermsConditions</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('SF_Scenarios_Data').getValue('GenerateConsentForm_Share', 2)</initValue>
+      <name>GenerateConsentForm_Share</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('SF_Scenarios_Data').getValue('CreditCard_UCO', 2)</initValue>
+      <name>CreditCard_UCO</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('SF_Scenarios_Data').getValue('OwnerSearchText', 2)</initValue>
+      <name>OwnerSearchText</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('SF_Scenarios_Data').getValue('CreditCard_UCOJoint', 2)</initValue>
+      <name>CreditCard_UCOJoint</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('SF_Scenarios_Data').getValue('Alternative_IDType_JointApplicant', 2)</initValue>
+      <name>Alternative_IDType_JointApplicant</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('SF_Scenarios_Data').getValue('Alternative_IDNumber_JointApplicant', 2)</initValue>
+      <name>Alternative_IDNumber_JointApplicant</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('SF_Scenarios_Data').getValue('CustomerGroup_JointApplicant', 2)</initValue>
+      <name>CustomerGroup_JointApplicant</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('SF_Scenarios_Data').getValue('Religion_JointApplicant', 2)</initValue>
+      <name>Religion_JointApplicant</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('SF_Scenarios_Data').getValue('Salutation_JointApplicant', 2)</initValue>
+      <name>Salutation_JointApplicant</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('SF_Scenarios_Data').getValue('Gender_JointApplicant', 2)</initValue>
+      <name>Gender_JointApplicant</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('SF_Scenarios_Data').getValue('Education_JointApplicant', 2)</initValue>
+      <name>Education_JointApplicant</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('SF_Scenarios_Data').getValue('MaritalStatus_JointApplicant', 2)</initValue>
+      <name>MaritalStatus_JointApplicant</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('SF_Scenarios_Data').getValue('PhoneNumber_JointApplicant', 2)</initValue>
+      <name>PhoneNumber_JointApplicant</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('SF_Scenarios_Data').getValue('Resident_Status_JointApplicant', 2)</initValue>
+      <name>Resident_Status_JointApplicant</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('SF_Scenarios_Data').getValue('Employment_Status_JointApplicant', 2)</initValue>
+      <name>Employment_Status_JointApplicant</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('SF_Scenarios_Data').getValue('Business_Type_JointApplicant', 2)</initValue>
+      <name>Business_Type_JointApplicant</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('SF_Scenarios_Data').getValue('Country_JointApplicant', 2)</initValue>
+      <name>Country_JointApplicant</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('SF_Scenarios_Data').getValue('HomeAddressLine1_JointApplicant', 2)</initValue>
+      <name>HomeAddressLine1_JointApplicant</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('SF_Scenarios_Data').getValue('HomeAddressLine2_JointApplicant', 2)</initValue>
+      <name>HomeAddressLine2_JointApplicant</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('SF_Scenarios_Data').getValue('HomeAddressLine3_JointApplicant', 2)</initValue>
+      <name>HomeAddressLine3_JointApplicant</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('SF_Scenarios_Data').getValue('City_JointApplicant', 2)</initValue>
+      <name>City_JointApplicant</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('SF_Scenarios_Data').getValue('Postcode_JointApplicant', 2)</initValue>
+      <name>Postcode_JointApplicant</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('SF_Scenarios_Data').getValue('State_JointApplicant', 2)</initValue>
+      <name>State_JointApplicant</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('SF_Scenarios_Data').getValue('MailingAddress_JointApplicant', 2)</initValue>
+      <name>MailingAddress_JointApplicant</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('SF_Scenarios_Data').getValue('Mailing_Country_JointApplicant', 2)</initValue>
+      <name>Mailing_Country_JointApplicant</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('SF_Scenarios_Data').getValue('MailingAddressLine1_JointApplicant', 2)</initValue>
+      <name>MailingAddressLine1_JointApplicant</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('SF_Scenarios_Data').getValue('MailingAddressLine2_JointApplicant', 2)</initValue>
+      <name>MailingAddressLine2_JointApplicant</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('SF_Scenarios_Data').getValue('MailingAddressLine3_JointApplicant', 2)</initValue>
+      <name>MailingAddressLine3_JointApplicant</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('SF_Scenarios_Data').getValue('Mailing_City_JointApplicant', 2)</initValue>
+      <name>Mailing_City_JointApplicant</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('SF_Scenarios_Data').getValue('Mailing_Postcode_JointApplicant', 2)</initValue>
+      <name>Mailing_Postcode_JointApplicant</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('SF_Scenarios_Data').getValue('Mailing_State_JointApplicant', 2)</initValue>
+      <name>Mailing_State_JointApplicant</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('SF_Scenarios_Data').getValue('Occupation_JointApplicant', 2)</initValue>
+      <name>Occupation_JointApplicant</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('SF_Scenarios_Data').getValue('Occupation_Sector_JointApplicant', 2)</initValue>
+      <name>Occupation_Sector_JointApplicant</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('SF_Scenarios_Data').getValue('NameOfEmployer_JointApplicant', 2)</initValue>
+      <name>NameOfEmployer_JointApplicant</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('SF_Scenarios_Data').getValue('DurationOfService_Year_JointApplication', 2)</initValue>
+      <name>DurationOfService_Year_JointApplication</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('SF_Scenarios_Data').getValue('DurationOfService_Month_JointApplication', 2)</initValue>
+      <name>DurationOfService_Month_JointApplication</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('SF_Scenarios_Data').getValue('OfficeAddress_Country_JointApplication', 2)</initValue>
+      <name>OfficeAddress_Country_JointApplication</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('SF_Scenarios_Data').getValue('OfficeAddressLine1_JointApplication', 2)</initValue>
+      <name>OfficeAddressLine1_JointApplication</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('SF_Scenarios_Data').getValue('OfficeAddressLine2_JointApplication', 2)</initValue>
+      <name>OfficeAddressLine2_JointApplication</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('SF_Scenarios_Data').getValue('OfficeAddressLine3_JointApplication', 2)</initValue>
+      <name>OfficeAddressLine3_JointApplication</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('SF_Scenarios_Data').getValue('OfficeAddress_City_JointApplication', 2)</initValue>
+      <name>OfficeAddress_City_JointApplication</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('SF_Scenarios_Data').getValue('OfficeAddress_Postcode_JointApplication', 2)</initValue>
+      <name>OfficeAddress_Postcode_JointApplication</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('SF_Scenarios_Data').getValue('Invalid_OfficeAddress_State_JointApplication', 2)</initValue>
+      <name>Invalid_OfficeAddress_State_JointApplication</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('SF_Scenarios_Data').getValue('OfficeAddress_State_JointApplication', 2)</initValue>
+      <name>OfficeAddress_State_JointApplication</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('SF_Scenarios_Data').getValue('OfficeAddress_CountryCode_JointApplication', 2)</initValue>
+      <name>OfficeAddress_CountryCode_JointApplication</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('SF_Scenarios_Data').getValue('OfficeContactNumber_JointApplication', 2)</initValue>
+      <name>OfficeContactNumber_JointApplication</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('SF_Scenarios_Data').getValue('Mothly_Gross_Income_JointApplicant', 2)</initValue>
+      <name>Mothly_Gross_Income_JointApplicant</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('SF_Scenarios_Data').getValue('FirstTimePurchase_JointApplicant', 2)</initValue>
+      <name>FirstTimePurchase_JointApplicant</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('SF_Scenarios_Data').getValue('ExistingHomeFinancing_JointApplicant', 2)</initValue>
+      <name>ExistingHomeFinancing_JointApplicant</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('SF_Scenarios_Data').getValue('NonBankCommitments_JointApplicant', 2)</initValue>
+      <name>NonBankCommitments_JointApplicant</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('SF_Scenarios_Data').getValue('PrimaryIncome_JointApplicant', 2)</initValue>
+      <name>PrimaryIncome_JointApplicant</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('SF_Scenarios_Data').getValue('PrimarySourceOfWealth_JointApplicant', 2)</initValue>
+      <name>PrimarySourceOfWealth_JointApplicant</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('SF_Scenarios_Data').getValue('MoreThanOneProperty_JointApplicant', 2)</initValue>
+      <name>MoreThanOneProperty_JointApplicant</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('SF_Scenarios_Data').getValue('PendingApplicationsOnOtherBank_JointApplicant', 2)</initValue>
+      <name>PendingApplicationsOnOtherBank_JointApplicant</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('BranchName', 2)</initValue>
+      <name>BranchName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('PurposeOfLoan', 2)</initValue>
+      <name>PurposeOfLoan</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('MaybankEmployee', 2)</initValue>
+      <name>MaybankEmployee</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('RelationshipWithMaybankEmployee', 2)</initValue>
+      <name>RelationshipWithMaybankEmployee</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('EmployeeName', 2)</initValue>
+      <name>EmployeeName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('EmployeePFNumber', 2)</initValue>
+      <name>EmployeePFNumber</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('LocationOfStaff', 2)</initValue>
+      <name>LocationOfStaff</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('DE_PropertyName', 2)</initValue>
+      <name>DE_PropertyName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('DE_UnitNumber', 2)</initValue>
+      <name>DE_UnitNumber</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('DE_TitleCode', 2)</initValue>
+      <name>DE_TitleCode</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('TitleNumber', 2)</initValue>
+      <name>TitleNumber</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('LotNumber', 2)</initValue>
+      <name>LotNumber</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('Block_Street', 2)</initValue>
+      <name>Block_Street</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('Date', 2)</initValue>
+      <name>Date</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('Month', 2)</initValue>
+      <name>Month</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('Year', 2)</initValue>
+      <name>Year</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('DD/MM/YY', 2)</initValue>
+      <name>DD/MM/YY</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('BuiltUpArea_TextBox', 2)</initValue>
+      <name>BuiltUpArea_TextBox</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('BuiltUpArea_TextBox_DropDown', 2)</initValue>
+      <name>BuiltUpArea_TextBox_DropDown</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('DE_PropertyInsuredAmount', 2)</initValue>
+      <name>DE_PropertyInsuredAmount</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('LifeInsuranceProductType', 2)</initValue>
+      <name>LifeInsuranceProductType</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('DE3_PropertyLoan_Input', 2)</initValue>
+      <name>DE3_PropertyLoan_Input</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('DE3_LegalFee_Input', 2)</initValue>
+      <name>DE3_LegalFee_Input</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('DE4_PolicyType', 2)</initValue>
+      <name>DE4_PolicyType</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('DE4_Insurer', 2)</initValue>
+      <name>DE4_Insurer</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('DE4_InsuredAmount', 2)</initValue>
+      <name>DE4_InsuredAmount</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('DE4_InsuredAmount_Main', 2)</initValue>
+      <name>DE4_InsuredAmount</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('DE4_InsuredAmount_Joint', 2)</initValue>
+      <name>DE4_InsuredAmount</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('DE4_InsuredTenure_Years', 2)</initValue>
+      <name>DE4_InsuredTenure_Years</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('DE4_PaymentMethod', 2)</initValue>
+      <name>DE4_PaymentMethod</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('DE5_Capitalized', 2)</initValue>
+      <name>DE5_Capitalized</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('DE5_Cash', 2)</initValue>
+      <name>DE5_Cash</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('PropertyInsurance', 2)</initValue>
+      <name>PropertyInsurance</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('ChargorNric1', 2)</initValue>
+      <name>ChargorNric1</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('ChargorName1', 2)</initValue>
+      <name>ChargorName1</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('ChargorAlternativeIDNumber1', 2)</initValue>
+      <name>ChargorAlternativeIDNumber1</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('RelationshipwithChargor1', 2)</initValue>
+      <name>RelationshipwithChargor1</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('ExistingHomeFinancingChargor1', 2)</initValue>
+      <name>ExistingHomeFinancingChargor1</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('ChargorNric2', 2)</initValue>
+      <name>ChargorNric2</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('ChargorName2', 2)</initValue>
+      <name>ChargorName2</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('ChargorAlternativeIDNumber2', 2)</initValue>
+      <name>ChargorAlternativeIDNumber2</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('RelationshipwithChargor2', 2)</initValue>
+      <name>RelationshipwithChargor2</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('ExistingHomeFinancingChargor2', 2)</initValue>
+      <name>ExistingHomeFinancingChargor2</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('ChargorAlernateIDType2', 2)</initValue>
+      <name>ChargorAlernateIDType2</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('ChargorAlernateIDType1', 2)</initValue>
+      <name>ChargorAlernateIDType1</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('AdditionalChargor', 2)</initValue>
+      <name>AdditionalChargor</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('AdditionalChargorReviewPage', 2)</initValue>
+      <name>AdditionalChargorReviewPage</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('AdditionalChargorRemoved', 2)</initValue>
+      <name>AdditionalChargorRemoved</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('PropertyType', 2)</initValue>
+      <name>PropertyType</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('propertyPurchsedFromDeveloper', 2)</initValue>
+      <name>propertyPurchsedFromDeveloper</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('propertyCompleted6MonthsAgo', 2)</initValue>
+      <name>propertyCompleted6MonthsAgo</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('PropertyNameDefaultText', 2)</initValue>
+      <name>PropertyNameDefaultText</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('PropertyNameInputText', 2)</initValue>
+      <name>PropertyNameInputText</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('UnitTypeDefaultValue', 2)</initValue>
+      <name>UnitTypeDefaultValue</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('UnitTypeInputText', 2)</initValue>
+      <name>UnitTypeInputText</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('UnitNumberDefaultvalue', 2)</initValue>
+      <name>UnitNumberDefaultvalue</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('UnitNumberInputText', 2)</initValue>
+      <name>UnitNumberInputText</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('PropertyPriceDefaultValue', 2)</initValue>
+      <name>PropertyPriceDefaultValue</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('PropertPriceInputText', 2)</initValue>
+      <name>PropertPriceInputText</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('UnitDetailsDefaultValue', 2)</initValue>
+      <name>UnitDetailsDefaultValue</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('UnitDetailsInputText', 2)</initValue>
+      <name>UnitDetailsInputText</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('BlockStoreyDetailsDefaultValue', 2)</initValue>
+      <name>BlockStoreyDetailsDefaultValue</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('BlockStoreyDetailsInputText', 2)</initValue>
+      <name>BlockStoreyDetailsInputText</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('DevelopmentNameDefaultValue', 2)</initValue>
+      <name>DevelopmentNameDefaultValue</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('DevelopmentNameInputText', 2)</initValue>
+      <name>DevelopmentNameInputText</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('CityDefaultValue', 2)</initValue>
+      <name>CityDefaultValue</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('CityInputText', 2)</initValue>
+      <name>CityInputText</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('PostCodeDefaultvalue', 2)</initValue>
+      <name>PostCodeDefaultvalue</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('PostCodeInputText', 2)</initValue>
+      <name>PostCodeInputText</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('StateDefaultValue', 2)</initValue>
+      <name>StateDefaultValue</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('StateInputText', 2)</initValue>
+      <name>StateInputText</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('DevelopmentTypeDefaultValue', 2)</initValue>
+      <name>DevelopmentTypeDefaultValue</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('DevelopmentTypeInputText', 2)</initValue>
+      <name>DevelopmentTypeInputText</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('PropertyArea_rdo', 2)</initValue>
+      <name>PropertyArea_rdo</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('TypeOfLease_rdo', 2)</initValue>
+      <name>TypeOfLease_rdo</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('LeaseHoldExpirydateDefaultValue', 2)</initValue>
+      <name>LeaseHoldExpirydateDefaultValue</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('FinancingAmountValue', 2)</initValue>
+      <name>FinancingAmountValue</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('FinancingPeriodYears', 2)</initValue>
+      <name>FinancingPeriodYears</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('PropertyArea_rdo', 2)</initValue>
+      <name>PropertyArea</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('TypeOfLease_rdo', 2)</initValue>
+      <name>TypeOfLease</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('TypeOfLease_rdo', 2)</initValue>
+      <name>TypeOfLeaseValue</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('PropertyAddressValue', 2)</initValue>
+      <name>PropertyAddressValue</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('PropertyArea_rdo', 2)</initValue>
+      <name>PropertyAreaValue</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('financingType', 2)</initValue>
+      <name>financingType</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('Downpayment', 2)</initValue>
+      <name>Downpayment</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('IntendedFinancingAmount', 2)</initValue>
+      <name>IntendedFinancingAmount</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('IntendedYears', 2)</initValue>
+      <name>IntendedYears</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('Interestrate', 2)</initValue>
+      <name>Interestrate</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('MonthlyInstallments', 2)</initValue>
+      <name>MonthlyInstallments</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('BankSellingPrice', 2)</initValue>
+      <name>BankSellingPrice</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('branchName', 2)</initValue>
+      <name>branchName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('CaseRouteToWoLOC', 2)</initValue>
+      <name>CaseRouteToWoLOC</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('ProcessToWoLOCStatus', 2)</initValue>
+      <name>ProcessToWoLOCStatus</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('editCustomerDetails', 2)</initValue>
+      <name>editCustomerDetails</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('propertyPurchsedFromDeveloper_EditCustomerDetails', 2)</initValue>
+      <name>propertyPurchsedFromDeveloper_EditCustomerDetails</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('propertyCompleted6MonthsAgo_EditCustomerDetails', 2)</initValue>
+      <name>propertyCompleted6MonthsAgo_EditCustomerDetails</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('deleteReason', 2)</initValue>
+      <name>deleteReason</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('testFlow', 2)</initValue>
+      <name>testFlow</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('LeaseHoldExpirydate', 2)</initValue>
+      <name>LeaseHoldExpirydate</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('VendorNameDefaultValue', 2)</initValue>
+      <name>VendorNameDefaultValue</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('VendorNameInputValue', 2)</initValue>
+      <name>VendorNameInputValue</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('VendoeIDTypeDefaultvalue', 2)</initValue>
+      <name>VendoeIDTypeDefaultvalue</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('VendorIDTypeInputValue', 2)</initValue>
+      <name>VendorIDTypeInputValue</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('VendorIdNumberDefaultvalue', 2)</initValue>
+      <name>VendorIdNumberDefaultvalue</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('VendorIDNumberInputValue', 2)</initValue>
+      <name>VendorIDNumberInputValue</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('VendorAlternateIDTypeDefaultValue', 2)</initValue>
+      <name>VendorAlternateIDTypeDefaultValue</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('VendorAlternateIDTypeInputValue', 2)</initValue>
+      <name>VendorAlternateIDTypeInputValue</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('VendorAlternateIDNumberDefaultValue', 2)</initValue>
+      <name>VendorAlternateIDNumberDefaultValue</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('VendorAlternateIDNumberInputValueValue', 2)</initValue>
+      <name>VendorAlternateIDNumberInputValueValue</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('GrossSalary1', 2)</initValue>
+      <name>GrossSalary1</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('GrossSalary2', 2)</initValue>
+      <name>GrossSalary2</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('BonusContracatualDefaultValue', 2)</initValue>
+      <name>BonusContracatualDefaultValue</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('BonusContracatualInputValue1', 2)</initValue>
+      <name>BonusContracatualInputValue1</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('BonusContracatualInputValue2', 2)</initValue>
+      <name>BonusContracatualInputValue2</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('BonusNonContracatualDefaultValue', 2)</initValue>
+      <name>BonusNonContracatualDefaultValue</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('BonusNonContracatualInputValue1', 2)</initValue>
+      <name>BonusNonContracatualInputValue1</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('BonusNonContracatualInputValue2', 2)</initValue>
+      <name>BonusNonContracatualInputValue2</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('BonusAllowancesFixedDefaultvalue', 2)</initValue>
+      <name>BonusAllowancesFixedDefaultvalue</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('BonusAllowancesFixedInputvalue1', 2)</initValue>
+      <name>BonusAllowancesFixedInputvalue1</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('BonusAllowancesFixedInputvalue2', 2)</initValue>
+      <name>BonusAllowancesFixedInputvalue2</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('BonusAllowancesVariableDefaultvalue', 2)</initValue>
+      <name>BonusAllowancesVariableDefaultvalue</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('BonusAllowancesVariableInputvalue1', 2)</initValue>
+      <name>BonusAllowancesVariableInputvalue1</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('BonusAllowancesVariableInputvalue2', 2)</initValue>
+      <name>BonusAllowancesVariableInputvalue2</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('RentalExistingInputvalue1', 2)</initValue>
+      <name>RentalExistingInputvalue1</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('RentalExistingInputvalue2', 2)</initValue>
+      <name>RentalExistingInputvalue2</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('PensionDefaultvalue', 2)</initValue>
+      <name>PensionDefaultvalue</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('PensionInputvalue1', 2)</initValue>
+      <name>PensionInputvalue1</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('PensionInputvalue2', 2)</initValue>
+      <name>PensionInputvalue2</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('FixedDepositDefaultValue', 2)</initValue>
+      <name>FixedDepositDefaultValue</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('FixedDepositInputValue1', 2)</initValue>
+      <name>FixedDepositInputValue1</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('FixedDepositInputValue2', 2)</initValue>
+      <name>FixedDepositInputValue2</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('ComissionDefaultValue', 2)</initValue>
+      <name>ComissionDefaultValue</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('CommissionInputValue1', 2)</initValue>
+      <name>CommissionInputValue1</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('CommissionInputValue2', 2)</initValue>
+      <name>CommissionInputValue2</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('OverTimeDefaultValue', 2)</initValue>
+      <name>OverTimeDefaultValue</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('OverTimeInputValue1', 2)</initValue>
+      <name>OverTimeInputValue1</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('OverTimeInputValue2', 2)</initValue>
+      <name>OverTimeInputValue2</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('ServicePointsDefaultValue', 2)</initValue>
+      <name>ServicePointsDefaultValue</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('ServicePointsInputValue1', 2)</initValue>
+      <name>ServicePointsInputValue1</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('ServicePointsInputValue2', 2)</initValue>
+      <name>ServicePointsInputValue2</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('EpfDefaultValue', 2)</initValue>
+      <name>EpfDefaultValue</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('EpfInputValue1', 2)</initValue>
+      <name>EpfInputValue1</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('EpfInputValue2', 2)</initValue>
+      <name>EpfInputValue2</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('TabungDefaultValue', 2)</initValue>
+      <name>TabungDefaultValue</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('TabungInputValue1', 2)</initValue>
+      <name>TabungInputValue1</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('TabungInputValue2', 2)</initValue>
+      <name>TabungInputValue2</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('ASNBDefaultValue', 2)</initValue>
+      <name>ASNBDefaultValue</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('ASNBInputValue1', 2)</initValue>
+      <name>ASNBInputValue1</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('ASNBInputValue2', 2)</initValue>
+      <name>ASNBInputValue2</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('TotalMonthlyGrossIncome1', 2)</initValue>
+      <name>TotalMonthlyGrossIncome1</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('TotalMonthlyGrossIncome2', 2)</initValue>
+      <name>TotalMonthlyGrossIncome2</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('OtherHirePurchase1', 2)</initValue>
+      <name>OtherHirePurchase1</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('OtherHirePurchase2', 2)</initValue>
+      <name>OtherHirePurchase2</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('OtherTermLoan1', 2)</initValue>
+      <name>OtherTermLoan1</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('OtherTermLoan2', 2)</initValue>
+      <name>OtherTermLoan2</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('OtherHousingLoan1', 2)</initValue>
+      <name>OtherHousingLoan1</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('OtherHousingLoan2', 2)</initValue>
+      <name>OtherHousingLoan2</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('OtherOverdraft1', 2)</initValue>
+      <name>OtherOverdraft1</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('OtherOverdraft2', 2)</initValue>
+      <name>OtherOverdraft2</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('CreditCard1', 2)</initValue>
+      <name>CreditCard1</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('CreditCard2', 2)</initValue>
+      <name>CreditCard2</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('NonBankCommitments1', 2)</initValue>
+      <name>NonBankCommitments1</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('NonBankCommitments2', 2)</initValue>
+      <name>NonBankCommitments2</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('TotalMonthlyCommitments1', 2)</initValue>
+      <name>TotalMonthlyCommitments1</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('TotalMonthlyCommitments2', 2)</initValue>
+      <name>TotalMonthlyCommitments2</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('EPF1', 2)</initValue>
+      <name>EPF1</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('EPF2', 2)</initValue>
+      <name>EPF2</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('Socso1', 2)</initValue>
+      <name>Socso1</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('Socso2', 2)</initValue>
+      <name>Socso2</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('IncomeTax1', 2)</initValue>
+      <name>IncomeTax1</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('IncomeTax2', 2)</initValue>
+      <name>IncomeTax2</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('Zakat1', 2)</initValue>
+      <name>Zakat1</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('Zakat2', 2)</initValue>
+      <name>Zakat2</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('TotalStatutoryDeduction1', 2)</initValue>
+      <name>TotalStatutoryDeduction1</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('TotalStatutoryDeduction2', 2)</initValue>
+      <name>TotalStatutoryDeduction2</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('TotalMonthlyNetIncomeValue1', 2)</initValue>
+      <name>TotalMonthlyNetIncomeValue1</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('TotalMonthlyNetIncomeValue2', 2)</initValue>
+      <name>TotalMonthlyNetIncomeValue2</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('DSR1', 2)</initValue>
+      <name>DSR1</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('customerSelectionEligiblityPage', 2)</initValue>
+      <name>customerSelectionEligiblityPage</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('customerSelectionSuccessPage', 2)</initValue>
+      <name>customerSelectionSuccessPage</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('NoOfApplicants', 2)</initValue>
+      <name>NoOfApplicants</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('DSR2', 2)</initValue>
+      <name>DSR2</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('TotalMonthlyGrossIncomeTotal', 2)</initValue>
+      <name>TotalMonthlyGrossIncomeTotal</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('TotalMonthlyCommitmentsTotal', 2)</initValue>
+      <name>TotalMonthlyCommitmentsTotal</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('TotalStatutoryDeductionTotal', 2)</initValue>
+      <name>TotalStatutoryDeductionTotal</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>SuccessPage</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>StpId</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('PropertyNameInputTextApplicationPage', 2)</initValue>
+      <name>PropertyNameInputTextApplicationPage</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>FinancingAmountApplicantionEligiblityPage</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>InterestrateAplicationEligiblityPage</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>MonthlyInstallmentApplicationEligiblitypAge</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>BankSellingPriceAllipacationEligiblityPage</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>LoanPeriodAplicationEligiblityPage</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('PropertyPriceMinValue', 2)</initValue>
+      <name>PropertyPriceMinValue</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('PropertyPriceMaxValue', 2)</initValue>
+      <name>PropertyPriceMaxValue</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>FinancingPeriodApplicantionEligiblityPage</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('FinancingPlan', 2)</initValue>
+      <name>FinancingPlan</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('PropertyDetails1').getValue('FinancingPlanSearchText', 1)</initValue>
+      <name>FinancingPlanSearchText</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

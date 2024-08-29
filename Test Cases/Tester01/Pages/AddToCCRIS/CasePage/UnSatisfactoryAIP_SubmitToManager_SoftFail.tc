@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>UnSatisfactoryAIP_SubmitToManager_SoftFail</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ef142f69-ba94-42a1-b5ca-7320e0bea3a8</testCaseGuid>
+</TestCaseEntity>

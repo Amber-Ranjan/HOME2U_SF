@@ -1,0 +1,34 @@
+{
+  "keywordFileContentHash": "C49772C6FBD0B50C050AD158ECCF3252",
+  "keywordClasses": [
+    {
+      "name": "com.keywords.SelectionAction",
+      "keywordMethods": [
+        {
+          "name": "cutomerSelection",
+          "parameters": [
+            {
+              "name": "selection",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    },
+    {
+      "name": "com.keywords.SelectionAction$Action",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

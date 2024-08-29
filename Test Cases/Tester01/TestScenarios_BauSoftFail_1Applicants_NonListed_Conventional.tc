@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TestScenarios_BauSoftFail_1Applicants_NonListed_Conventional</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>87de1d3e-52fc-42d4-991f-bd0c76810f84</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_001_BAU_HardFail_New</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>48f3d08a-158b-464a-891d-b3b6ed30049a</testCaseGuid>
+</TestCaseEntity>

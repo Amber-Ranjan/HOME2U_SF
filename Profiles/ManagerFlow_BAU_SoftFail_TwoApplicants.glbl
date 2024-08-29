@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>ManagerFlow_BAU_SoftFail_TwoApplicants</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'5'</initValue>
+      <name>Row_Number</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>LoanDetails</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('ManagerFlow_Two_DataEntry_Data').getValue('PurposeOfLoan', 2)</initValue>
+      <name>PurposeOfLoan</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('ManagerFlow_Two_DataEntry_Data').getValue('IsThisApplicantAMaybankEmployeeRelatedToAMaybankEmployee', 2)</initValue>
+      <name>AreAnyofTheApplicantAMaybankEmployeeRelatedToAMaybankEmployee</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>PropertyDetails</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('ManagerFlow_Two_DataEntry_Data').getValue('PropertyName', 2)</initValue>
+      <name>PropertyName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('ManagerFlow_Two_DataEntry_Data').getValue('UnitNumber', 2)</initValue>
+      <name>UnitNumber</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('ManagerFlow_Two_DataEntry_Data').getValue('TitleCode', 2)</initValue>
+      <name>TitleCode</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('ManagerFlow_Two_DataEntry_Data').getValue('TitleNumber', 2)</initValue>
+      <name>TitleNumber</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('ManagerFlow_Two_DataEntry_Data').getValue('LotNumber', 2)</initValue>
+      <name>LotNumber</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('ManagerFlow_Two_DataEntry_Data').getValue('Block_Street', 2)</initValue>
+      <name>Block_Street</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('ManagerFlow_Two_DataEntry_Data').getValue('PurchaseDate', 2)</initValue>
+      <name>PurchaseDate</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('ManagerFlow_Two_DataEntry_Data').getValue('BuiltUpArea', 2)</initValue>
+      <name>BuiltUpArea</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('ManagerFlow_Two_DataEntry_Data').getValue('PropertyInsuredAmount', 2)</initValue>
+      <name>PropertyInsuredAmount</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>LifeInsurance</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('ManagerFlow_Two_DataEntry_Data').getValue('ProductType', 2)</initValue>
+      <name>ProductType</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('ManagerFlow_Two_DataEntry_Data').getValue('PolicyType', 2)</initValue>
+      <name>PolicyType</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('ManagerFlow_Two_DataEntry_Data').getValue('Insurer', 2)</initValue>
+      <name>Insurer</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('ManagerFlow_Two_DataEntry_Data').getValue('InsuredTenure', 2)</initValue>
+      <name>InsuredTenure</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('ManagerFlow_Two_DataEntry_Data').getValue('BICCPeriod', 2)</initValue>
+      <name>BICCPeriod</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('ManagerFlow_Two_DataEntry_Data').getValue('TotalCoverage', 2)</initValue>
+      <name>TotalCoverage</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('ManagerFlow_Two_DataEntry_Data').getValue('PaymentMethod', 2)</initValue>
+      <name>PaymentMethod</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>MainApplicant</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('ManagerFlow_Two_DataEntry_Data').getValue('MainApplicant_InsuredAmount', 2)</initValue>
+      <name>MainApplicant_InsuredAmount</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('ManagerFlow_Two_DataEntry_Data').getValue('MainApplicant_Premium', 2)</initValue>
+      <name>MainApplicant_Premium</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('ManagerFlow_Two_DataEntry_Data').getValue('MainApplicant_WithinAutoAcceptanceLimit', 2)</initValue>
+      <name>MainApplicant_WithinAutoAcceptanceLimit</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>JointApplicant</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('ManagerFlow_Two_DataEntry_Data').getValue('JointApplicant_InsuredAmount', 2)</initValue>
+      <name>JointApplicant_InsuredAmount</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('ManagerFlow_Two_DataEntry_Data').getValue('JointApplicant_Premium', 2)</initValue>
+      <name>JointApplicant_Premium</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('ManagerFlow_Two_DataEntry_Data').getValue('JointApplicant_WithinAutoAcceptanceLimit', 2)</initValue>
+      <name>JointApplicant_WithinAutoAcceptanceLimit</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>AdditionalFees</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('ManagerFlow_Two_DataEntry_Data').getValue('LegalFees', 2)</initValue>
+      <name>LegalFees</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('ManagerFlow_Two_DataEntry_Data').getValue('MainApplicant_WillWritingFees', 2)</initValue>
+      <name>MainApplicant_WillWritingFees</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('ManagerFlow_Two_DataEntry_Data').getValue('JointApplicant_WillWritingFees', 2)</initValue>
+      <name>JointApplicant_WillWritingFees</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('ManagerFlow_Two_DataEntry_Data').getValue('CapitalizedPremium', 2)</initValue>
+      <name>CapitalizedPremium</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('ManagerFlow_Two_DataEntry_Data').getValue('CashPremium', 2)</initValue>
+      <name>CashPremium</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('ManagerFlow_Two_DataEntry_Data').getValue('PropertyLoan', 2)</initValue>
+      <name>PropertyLoan</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

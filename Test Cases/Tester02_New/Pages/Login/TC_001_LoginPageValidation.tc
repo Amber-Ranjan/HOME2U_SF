@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_001_LoginPageValidation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cbb52de0-4716-4158-98c8-6a0e1011081a</testCaseGuid>
+</TestCaseEntity>
